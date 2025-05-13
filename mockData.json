@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Jessica",
+    "lastName": "Taylor",
+    "age": 35,
+    "gender": "Female",
+    "phoneNumber": "555-123-4567",
+    "diagnosisHistory": [
+      {
+        "year": 2020,
+        "bloodPressure": {
+          "systolic": 120,
+          "diastolic": 80
+        }
+      },
+      {
+        "year": 2021,
+        "bloodPressure": {
+          "systolic": 125,
+          "diastolic": 82
+        }
+      },
+      {
+        "year": 2022,
+        "bloodPressure": {
+          "systolic": 130,
+          "diastolic": 85
+        }
+      }
+    ]
+  }
+]
