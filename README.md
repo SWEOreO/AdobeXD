@@ -1,4 +1,4 @@
-# Jessica Taylor - Patient Dashboard
+# AdobeXD - Patient Dashboard
 
 A simple web-based patient dashboard to visualize Jessica Taylor's medical history. This project fetches mock patient data and displays it, along with a chart showing her blood pressure over the years.
 
